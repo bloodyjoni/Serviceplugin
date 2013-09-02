@@ -6,7 +6,7 @@
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Cordova-Plugin-BackgroundService/2.9.0/MyService.java at master · Red-Folder/Cordova-Plugin-BackgroundService</title>
+        <title>Cordova-Plugin-BackgroundService/2.9.0/myService-2.9.0.js at master · Red-Folder/Cordova-Plugin-BackgroundService</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
@@ -15,7 +15,7 @@
     <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png" />
     <link rel="logo" type="image/svg" href="https://github-media-downloads.s3.amazonaws.com/github-logo.svg" />
     <meta property="og:image" content="https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png">
-    <meta name="hostname" content="github-fe126-cp1-prd.iad.github.net">
+    <meta name="hostname" content="github-fe114-cp1-prd.iad.github.net">
     <meta name="ruby" content="ruby 1.9.3p194-tcs-github-tcmalloc (2012-05-25, TCS patched 2012-05-27, GitHub v1.0.32) [x86_64-linux]">
     <link rel="assets" href="https://github.global.ssl.fastly.net/">
     <link rel="xhr-socket" href="/_sockets" />
@@ -46,7 +46,7 @@
       
       <meta http-equiv="x-pjax-version" content="1ec363f07a500fc740e5cabfeae8bc56">
 
-        <link data-pjax-transient rel='permalink' href='/Red-Folder/Cordova-Plugin-BackgroundService/blob/5e735cd8f0342c3f46d49caf1617f88a73b4c7b9/2.9.0/MyService.java'>
+        <link data-pjax-transient rel='permalink' href='/Red-Folder/Cordova-Plugin-BackgroundService/blob/5e735cd8f0342c3f46d49caf1617f88a73b4c7b9/2.9.0/myService-2.9.0.js'>
   <meta property="og:title" content="Cordova-Plugin-BackgroundService"/>
   <meta property="og:type" content="githubog:gitrepository"/>
   <meta property="og:url" content="https://github.com/Red-Folder/Cordova-Plugin-BackgroundService"/>
@@ -482,8 +482,8 @@
           
 
 
-<!-- blob contrib key: blob_contributors:v21:f7af9d5ae3eacd727d24fd2159c4e0f7 -->
-<!-- blob contrib frag key: views10/v8/blob_contributors:v21:f7af9d5ae3eacd727d24fd2159c4e0f7 -->
+<!-- blob contrib key: blob_contributors:v21:2ce886791443bd14077ac84b69e8495a -->
+<!-- blob contrib frag key: views10/v8/blob_contributors:v21:2ce886791443bd14077ac84b69e8495a -->
 
 <p title="This is a placeholder element" class="js-history-link-replace hidden"></p>
 
@@ -533,7 +533,7 @@
 
             <div class="select-menu-item js-navigation-item selected">
               <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/Red-Folder/Cordova-Plugin-BackgroundService/blob/master/2.9.0/MyService.java" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="master" data-skip-pjax="true" rel="nofollow" title="master">master</a>
+              <a href="/Red-Folder/Cordova-Plugin-BackgroundService/blob/master/2.9.0/myService-2.9.0.js" class="js-navigation-open select-menu-item-text js-select-button-text css-truncate-target" data-name="master" data-skip-pjax="true" rel="nofollow" title="master">master</a>
             </div> <!-- /.select-menu-item -->
         </div>
 
@@ -554,14 +554,14 @@
 </div> <!-- /.select-menu -->
 
   <div class="breadcrumb">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Red-Folder/Cordova-Plugin-BackgroundService" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">Cordova-Plugin-BackgroundService</span></a></span></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Red-Folder/Cordova-Plugin-BackgroundService/tree/master/2.9.0" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">2.9.0</span></a></span><span class="separator"> / </span><strong class="final-path">MyService.java</strong> <span class="js-zeroclipboard minibutton zeroclipboard-button" data-clipboard-text="2.9.0/MyService.java" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Red-Folder/Cordova-Plugin-BackgroundService" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">Cordova-Plugin-BackgroundService</span></a></span></span><span class="separator"> / </span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Red-Folder/Cordova-Plugin-BackgroundService/tree/master/2.9.0" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">2.9.0</span></a></span><span class="separator"> / </span><strong class="final-path">myService-2.9.0.js</strong> <span class="js-zeroclipboard minibutton zeroclipboard-button" data-clipboard-text="2.9.0/myService-2.9.0.js" data-copied-hint="copied!" title="copy to clipboard"><span class="octicon octicon-clippy"></span></span>
   </div>
 </div>
 
 
   
   <div class="commit file-history-tease">
-    <img class="main-avatar" height="24" src="https://1.gravatar.com/avatar/021b59e6d38ebd243b815891e77bd9d2?d=https%3A%2F%2Fidenticons.github.com%2F605bce3433e6fab3776a8af8c140d369.png&amp;s=140" width="24" />
+    <img class="main-avatar" height="24" src="https://2.gravatar.com/avatar/021b59e6d38ebd243b815891e77bd9d2?d=https%3A%2F%2Fidenticons.github.com%2F605bce3433e6fab3776a8af8c140d369.png&amp;s=140" width="24" />
     <span class="author"><a href="/Red-Folder" rel="author">Red-Folder</a></span>
     <time class="js-relative-date" datetime="2013-08-22T12:43:27-07:00" title="2013-08-22 12:43:27">August 22, 2013</time>
     <div class="commit-title">
@@ -576,7 +576,7 @@
       <h2 class="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list">
         <li class="facebox-user-list-item">
-          <img height="24" src="https://1.gravatar.com/avatar/021b59e6d38ebd243b815891e77bd9d2?d=https%3A%2F%2Fidenticons.github.com%2F605bce3433e6fab3776a8af8c140d369.png&amp;s=140" width="24" />
+          <img height="24" src="https://2.gravatar.com/avatar/021b59e6d38ebd243b815891e77bd9d2?d=https%3A%2F%2Fidenticons.github.com%2F605bce3433e6fab3776a8af8c140d369.png&amp;s=140" width="24" />
           <a href="/Red-Folder">Red-Folder</a>
         </li>
       </ul>
@@ -590,21 +590,21 @@
       <div class="info">
         <span class="icon"><b class="octicon octicon-file-text"></b></span>
         <span class="mode" title="File Mode">file</span>
-          <span>79 lines (54 sloc)</span>
-        <span>1.523 kb</span>
+          <span>20 lines (18 sloc)</span>
+        <span>0.846 kb</span>
       </div>
       <div class="actions">
         <div class="button-group">
                 <a class="minibutton tooltipped leftwards"
                    title="Clicking this button will automatically fork this project so you can edit the file"
-                   href="/Red-Folder/Cordova-Plugin-BackgroundService/edit/master/2.9.0/MyService.java"
+                   href="/Red-Folder/Cordova-Plugin-BackgroundService/edit/master/2.9.0/myService-2.9.0.js"
                    data-method="post" rel="nofollow">Edit</a>
-          <a href="/Red-Folder/Cordova-Plugin-BackgroundService/raw/master/2.9.0/MyService.java" class="button minibutton " id="raw-url">Raw</a>
-            <a href="/Red-Folder/Cordova-Plugin-BackgroundService/blame/master/2.9.0/MyService.java" class="button minibutton ">Blame</a>
-          <a href="/Red-Folder/Cordova-Plugin-BackgroundService/commits/master/2.9.0/MyService.java" class="button minibutton " rel="nofollow">History</a>
+          <a href="/Red-Folder/Cordova-Plugin-BackgroundService/raw/master/2.9.0/myService-2.9.0.js" class="button minibutton " id="raw-url">Raw</a>
+            <a href="/Red-Folder/Cordova-Plugin-BackgroundService/blame/master/2.9.0/myService-2.9.0.js" class="button minibutton ">Blame</a>
+          <a href="/Red-Folder/Cordova-Plugin-BackgroundService/commits/master/2.9.0/myService-2.9.0.js" class="button minibutton " rel="nofollow">History</a>
         </div><!-- /.button-group -->
             <a class="minibutton danger empty-icon tooltipped downwards"
-               href="/Red-Folder/Cordova-Plugin-BackgroundService/delete/master/2.9.0/MyService.java"
+               href="/Red-Folder/Cordova-Plugin-BackgroundService/delete/master/2.9.0/myService-2.9.0.js"
                title="Fork this project and delete file"
                data-method="post" data-test-id="delete-blob-file" rel="nofollow">
             Delete
@@ -612,7 +612,7 @@
       </div><!-- /.actions -->
 
     </div>
-        <div class="blob-wrapper data type-java js-blob-data">
+        <div class="blob-wrapper data type-javascript js-blob-data">
         <table class="file-code file-diff">
           <tr class="file-code-line">
             <td class="blob-line-nums">
@@ -635,69 +635,10 @@
 <span id="L17" rel="#L17">17</span>
 <span id="L18" rel="#L18">18</span>
 <span id="L19" rel="#L19">19</span>
-<span id="L20" rel="#L20">20</span>
-<span id="L21" rel="#L21">21</span>
-<span id="L22" rel="#L22">22</span>
-<span id="L23" rel="#L23">23</span>
-<span id="L24" rel="#L24">24</span>
-<span id="L25" rel="#L25">25</span>
-<span id="L26" rel="#L26">26</span>
-<span id="L27" rel="#L27">27</span>
-<span id="L28" rel="#L28">28</span>
-<span id="L29" rel="#L29">29</span>
-<span id="L30" rel="#L30">30</span>
-<span id="L31" rel="#L31">31</span>
-<span id="L32" rel="#L32">32</span>
-<span id="L33" rel="#L33">33</span>
-<span id="L34" rel="#L34">34</span>
-<span id="L35" rel="#L35">35</span>
-<span id="L36" rel="#L36">36</span>
-<span id="L37" rel="#L37">37</span>
-<span id="L38" rel="#L38">38</span>
-<span id="L39" rel="#L39">39</span>
-<span id="L40" rel="#L40">40</span>
-<span id="L41" rel="#L41">41</span>
-<span id="L42" rel="#L42">42</span>
-<span id="L43" rel="#L43">43</span>
-<span id="L44" rel="#L44">44</span>
-<span id="L45" rel="#L45">45</span>
-<span id="L46" rel="#L46">46</span>
-<span id="L47" rel="#L47">47</span>
-<span id="L48" rel="#L48">48</span>
-<span id="L49" rel="#L49">49</span>
-<span id="L50" rel="#L50">50</span>
-<span id="L51" rel="#L51">51</span>
-<span id="L52" rel="#L52">52</span>
-<span id="L53" rel="#L53">53</span>
-<span id="L54" rel="#L54">54</span>
-<span id="L55" rel="#L55">55</span>
-<span id="L56" rel="#L56">56</span>
-<span id="L57" rel="#L57">57</span>
-<span id="L58" rel="#L58">58</span>
-<span id="L59" rel="#L59">59</span>
-<span id="L60" rel="#L60">60</span>
-<span id="L61" rel="#L61">61</span>
-<span id="L62" rel="#L62">62</span>
-<span id="L63" rel="#L63">63</span>
-<span id="L64" rel="#L64">64</span>
-<span id="L65" rel="#L65">65</span>
-<span id="L66" rel="#L66">66</span>
-<span id="L67" rel="#L67">67</span>
-<span id="L68" rel="#L68">68</span>
-<span id="L69" rel="#L69">69</span>
-<span id="L70" rel="#L70">70</span>
-<span id="L71" rel="#L71">71</span>
-<span id="L72" rel="#L72">72</span>
-<span id="L73" rel="#L73">73</span>
-<span id="L74" rel="#L74">74</span>
-<span id="L75" rel="#L75">75</span>
-<span id="L76" rel="#L76">76</span>
-<span id="L77" rel="#L77">77</span>
-<span id="L78" rel="#L78">78</span>
 
             </td>
             <td class="blob-line-code">
-                    <div class="highlight"><pre><div class='line' id='LC1'><span class="kn">package</span> <span class="n">com</span><span class="o">.</span><span class="na">yournamespace</span><span class="o">.</span><span class="na">yourappname</span><span class="o">;</span></div><div class='line' id='LC2'><br/></div><div class='line' id='LC3'><span class="kn">import</span> <span class="nn">java.text.SimpleDateFormat</span><span class="o">;</span></div><div class='line' id='LC4'><span class="kn">import</span> <span class="nn">java.util.Date</span><span class="o">;</span></div><div class='line' id='LC5'><br/></div><div class='line' id='LC6'><span class="kn">import</span> <span class="nn">org.json.JSONException</span><span class="o">;</span></div><div class='line' id='LC7'><span class="kn">import</span> <span class="nn">org.json.JSONObject</span><span class="o">;</span></div><div class='line' id='LC8'><br/></div><div class='line' id='LC9'><span class="kn">import</span> <span class="nn">android.util.Log</span><span class="o">;</span></div><div class='line' id='LC10'><br/></div><div class='line' id='LC11'><span class="kn">import</span> <span class="nn">com.red_folder.phonegap.plugin.backgroundservice.BackgroundService</span><span class="o">;</span></div><div class='line' id='LC12'><br/></div><div class='line' id='LC13'><span class="kd">public</span> <span class="kd">class</span> <span class="nc">MyService</span> <span class="kd">extends</span> <span class="n">BackgroundService</span> <span class="o">{</span></div><div class='line' id='LC14'><br/></div><div class='line' id='LC15'>	<span class="kd">private</span> <span class="kd">final</span> <span class="kd">static</span> <span class="n">String</span> <span class="n">TAG</span> <span class="o">=</span> <span class="n">MyService</span><span class="o">.</span><span class="na">class</span><span class="o">.</span><span class="na">getSimpleName</span><span class="o">();</span></div><div class='line' id='LC16'><br/></div><div class='line' id='LC17'>	<span class="kd">private</span> <span class="n">String</span> <span class="n">mHelloTo</span> <span class="o">=</span> <span class="s">&quot;World&quot;</span><span class="o">;</span></div><div class='line' id='LC18'><br/></div><div class='line' id='LC19'>	<span class="nd">@Override</span></div><div class='line' id='LC20'>	<span class="kd">protected</span> <span class="n">JSONObject</span> <span class="nf">doWork</span><span class="o">()</span> <span class="o">{</span></div><div class='line' id='LC21'>		<span class="n">JSONObject</span> <span class="n">result</span> <span class="o">=</span> <span class="k">new</span> <span class="n">JSONObject</span><span class="o">();</span></div><div class='line' id='LC22'><br/></div><div class='line' id='LC23'>		<span class="k">try</span> <span class="o">{</span></div><div class='line' id='LC24'>			<span class="n">SimpleDateFormat</span> <span class="n">df</span> <span class="o">=</span> <span class="k">new</span> <span class="n">SimpleDateFormat</span><span class="o">(</span><span class="s">&quot;dd/MM/yyyy HH:mm:ss&quot;</span><span class="o">);</span> </div><div class='line' id='LC25'>			<span class="n">String</span> <span class="n">now</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="na">format</span><span class="o">(</span><span class="k">new</span> <span class="n">Date</span><span class="o">(</span><span class="n">System</span><span class="o">.</span><span class="na">currentTimeMillis</span><span class="o">()));</span> </div><div class='line' id='LC26'><br/></div><div class='line' id='LC27'>			<span class="n">String</span> <span class="n">msg</span> <span class="o">=</span> <span class="s">&quot;Hello &quot;</span> <span class="o">+</span> <span class="k">this</span><span class="o">.</span><span class="na">mHelloTo</span> <span class="o">+</span> <span class="s">&quot; - its currently &quot;</span> <span class="o">+</span> <span class="n">now</span><span class="o">;</span></div><div class='line' id='LC28'>			<span class="n">result</span><span class="o">.</span><span class="na">put</span><span class="o">(</span><span class="s">&quot;Message&quot;</span><span class="o">,</span> <span class="n">msg</span><span class="o">);</span></div><div class='line' id='LC29'><br/></div><div class='line' id='LC30'>			<span class="n">Log</span><span class="o">.</span><span class="na">d</span><span class="o">(</span><span class="n">TAG</span><span class="o">,</span> <span class="n">msg</span><span class="o">);</span></div><div class='line' id='LC31'>		<span class="o">}</span> <span class="k">catch</span> <span class="o">(</span><span class="n">JSONException</span> <span class="n">e</span><span class="o">)</span> <span class="o">{</span></div><div class='line' id='LC32'>		<span class="o">}</span></div><div class='line' id='LC33'><br/></div><div class='line' id='LC34'>		<span class="k">return</span> <span class="n">result</span><span class="o">;</span>	</div><div class='line' id='LC35'>	<span class="o">}</span></div><div class='line' id='LC36'><br/></div><div class='line' id='LC37'>	<span class="nd">@Override</span></div><div class='line' id='LC38'>	<span class="kd">protected</span> <span class="n">JSONObject</span> <span class="nf">getConfig</span><span class="o">()</span> <span class="o">{</span></div><div class='line' id='LC39'>		<span class="n">JSONObject</span> <span class="n">result</span> <span class="o">=</span> <span class="k">new</span> <span class="n">JSONObject</span><span class="o">();</span></div><div class='line' id='LC40'><br/></div><div class='line' id='LC41'>		<span class="k">try</span> <span class="o">{</span></div><div class='line' id='LC42'>			<span class="n">result</span><span class="o">.</span><span class="na">put</span><span class="o">(</span><span class="s">&quot;HelloTo&quot;</span><span class="o">,</span> <span class="k">this</span><span class="o">.</span><span class="na">mHelloTo</span><span class="o">);</span></div><div class='line' id='LC43'>		<span class="o">}</span> <span class="k">catch</span> <span class="o">(</span><span class="n">JSONException</span> <span class="n">e</span><span class="o">)</span> <span class="o">{</span></div><div class='line' id='LC44'>		<span class="o">}</span></div><div class='line' id='LC45'><br/></div><div class='line' id='LC46'>		<span class="k">return</span> <span class="n">result</span><span class="o">;</span></div><div class='line' id='LC47'>	<span class="o">}</span></div><div class='line' id='LC48'><br/></div><div class='line' id='LC49'>	<span class="nd">@Override</span></div><div class='line' id='LC50'>	<span class="kd">protected</span> <span class="kt">void</span> <span class="nf">setConfig</span><span class="o">(</span><span class="n">JSONObject</span> <span class="n">config</span><span class="o">)</span> <span class="o">{</span></div><div class='line' id='LC51'>		<span class="k">try</span> <span class="o">{</span></div><div class='line' id='LC52'>			<span class="k">if</span> <span class="o">(</span><span class="n">config</span><span class="o">.</span><span class="na">has</span><span class="o">(</span><span class="s">&quot;HelloTo&quot;</span><span class="o">))</span></div><div class='line' id='LC53'>				<span class="k">this</span><span class="o">.</span><span class="na">mHelloTo</span> <span class="o">=</span> <span class="n">config</span><span class="o">.</span><span class="na">getString</span><span class="o">(</span><span class="s">&quot;HelloTo&quot;</span><span class="o">);</span></div><div class='line' id='LC54'>		<span class="o">}</span> <span class="k">catch</span> <span class="o">(</span><span class="n">JSONException</span> <span class="n">e</span><span class="o">)</span> <span class="o">{</span></div><div class='line' id='LC55'>		<span class="o">}</span></div><div class='line' id='LC56'><br/></div><div class='line' id='LC57'>	<span class="o">}</span>     </div><div class='line' id='LC58'><br/></div><div class='line' id='LC59'>	<span class="nd">@Override</span></div><div class='line' id='LC60'>	<span class="kd">protected</span> <span class="n">JSONObject</span> <span class="nf">initialiseLatestResult</span><span class="o">()</span> <span class="o">{</span></div><div class='line' id='LC61'>		<span class="c1">// TODO Auto-generated method stub</span></div><div class='line' id='LC62'>		<span class="k">return</span> <span class="kc">null</span><span class="o">;</span></div><div class='line' id='LC63'>	<span class="o">}</span></div><div class='line' id='LC64'><br/></div><div class='line' id='LC65'>	<span class="nd">@Override</span></div><div class='line' id='LC66'>	<span class="kd">protected</span> <span class="kt">void</span> <span class="nf">onTimerEnabled</span><span class="o">()</span> <span class="o">{</span></div><div class='line' id='LC67'>		<span class="c1">// TODO Auto-generated method stub</span></div><div class='line' id='LC68'><br/></div><div class='line' id='LC69'>	<span class="o">}</span></div><div class='line' id='LC70'><br/></div><div class='line' id='LC71'>	<span class="nd">@Override</span></div><div class='line' id='LC72'>	<span class="kd">protected</span> <span class="kt">void</span> <span class="nf">onTimerDisabled</span><span class="o">()</span> <span class="o">{</span></div><div class='line' id='LC73'>		<span class="c1">// TODO Auto-generated method stub</span></div><div class='line' id='LC74'><br/></div><div class='line' id='LC75'>	<span class="o">}</span></div><div class='line' id='LC76'><br/></div><div class='line' id='LC77'><br/></div><div class='line' id='LC78'><span class="o">}</span></div></pre></div>
+                    <div class="highlight"><pre><div class='line' id='LC1'><span class="cm">/*</span></div><div class='line' id='LC2'><span class="cm"> * Copyright 2013 Red Folder Consultancy Ltd</span></div><div class='line' id='LC3'><span class="cm"> *   </span></div><div class='line' id='LC4'><span class="cm"> * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);   </span></div><div class='line' id='LC5'><span class="cm"> * you may not use this file except in compliance with the License.   </span></div><div class='line' id='LC6'><span class="cm"> * You may obtain a copy of the License at       </span></div><div class='line' id='LC7'><span class="cm"> * </span></div><div class='line' id='LC8'><span class="cm"> * 	http://www.apache.org/licenses/LICENSE-2.0   </span></div><div class='line' id='LC9'><span class="cm"> *</span></div><div class='line' id='LC10'><span class="cm"> * Unless required by applicable law or agreed to in writing, software   </span></div><div class='line' id='LC11'><span class="cm"> * distributed under the License is distributed on an &quot;AS IS&quot; BASIS,   </span></div><div class='line' id='LC12'><span class="cm"> * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.   </span></div><div class='line' id='LC13'><span class="cm"> * See the License for the specific language governing permissions and   </span></div><div class='line' id='LC14'><span class="cm"> * limitations under the License.</span></div><div class='line' id='LC15'><span class="cm"> */</span></div><div class='line' id='LC16'><br/></div><div class='line' id='LC17'><span class="nx">cordova</span><span class="p">.</span><span class="nx">define</span><span class="p">(</span>	<span class="s1">&#39;cordova/plugin/myService&#39;</span><span class="p">,</span>	<span class="kd">function</span><span class="p">(</span><span class="nx">require</span><span class="p">,</span> <span class="nx">exports</span><span class="p">,</span> <span class="nx">module</span><span class="p">)</span> <span class="p">{</span>    </div><div class='line' id='LC18'>												<span class="nx">CreateBackgroundService</span><span class="p">(</span><span class="s1">&#39;com.yournamespace.yourappname.MyService&#39;</span><span class="p">,</span> <span class="nx">require</span><span class="p">,</span> <span class="nx">exports</span><span class="p">,</span> <span class="nx">module</span><span class="p">);</span></div><div class='line' id='LC19'>											<span class="p">});</span></div></pre></div>
             </td>
           </tr>
         </table>
@@ -741,7 +682,7 @@
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2013 <span title="0.04393s from github-fe126-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2013 <span title="0.04221s from github-fe114-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
